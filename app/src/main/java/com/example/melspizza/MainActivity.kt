@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
     if (onions.isChecked) { toppingsTotal += 1 }
     if (olives.isChecked) { toppingsTotal += 2 }
     if (tomatoes.isChecked) { toppingsTotal += 3 }
-    textView4.text="Total Order Price=$"+(pizzaSizePrice+toppingsTotal)
+    textView4.text = "Total Order Price=$"+(pizzaSizePrice+toppingsTotal)
         }
     }
      //       findViewById<CheckBox>(R.id.onions).isChecked -> toppingsTotal += 1.0
