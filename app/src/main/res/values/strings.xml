@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mel\'s Pizza</string>
+    <string name="size_text">Choose Your Size</string>
+    <string name="small_5">Small ($ 5)</string>
+    <string name="medium_7">Medium ($ 7)</string>
+    <string name="large_9">Large ($ 9)</string>
+</resources>
